@@ -6,4 +6,5 @@ public class JavaExemple{
   
   public static String getValue(){
     return "test";
+  }
 }
